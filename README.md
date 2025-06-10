@@ -1,5 +1,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
+![Static Badge](https://img.shields.io/badge/react-blue)
+
 ✨ **About Me**  
 I'm a passionate Frontend Developer with full-stack capabilities, dedicated to crafting beautiful, responsive, and user-friendly web experiences. With a strong foundation in modern JavaScript ecosystems and backend technologies, I love turning ideas into reality through code.
 
