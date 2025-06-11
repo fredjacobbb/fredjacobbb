@@ -42,7 +42,7 @@ I'm a passionate Frontend Developer with full-stack capabilities, dedicated to c
 </p>
 
 📈 **GitHub Stats**  
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fredjacobbb&show_icons=true&theme=radical)](https://github.com/fredjacobbb)
 
 🔥 **Top Languages**  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredjacobbb&layout=compact&theme=radical)](https://github.com/fredjacobbb)
