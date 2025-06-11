@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from France</h3>
 
 ![Static Badge](https://img.shields.io/badge/react-blue)
 
