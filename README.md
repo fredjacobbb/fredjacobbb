@@ -1,6 +1,4 @@
-<h3 align="center">A passionate web developer from France</h3>
-
-![Static Badge](https://img.shields.io/badge/react-blue)
+<h1 align="center">A WEB DEVELOPER from France</h1>
 
 ✨ **About Me**  
 I'm a passionate Frontend Developer with full-stack capabilities, dedicated to crafting beautiful, responsive, and user-friendly web experiences. With a strong foundation in modern JavaScript ecosystems and backend technologies, I love turning ideas into reality through code.
