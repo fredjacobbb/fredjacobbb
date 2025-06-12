@@ -1,4 +1,4 @@
-<h1 align="center">A WEB DEVELOPER from France</h1>
+<h1 align="center">A Web Developer from France</h1>
 
 ✨ **About Me**  
 I'm a passionate Frontend Developer with full-stack capabilities, dedicated to crafting beautiful, responsive, and user-friendly web experiences. With a strong foundation in modern JavaScript ecosystems and backend technologies, I love turning ideas into reality through code.
