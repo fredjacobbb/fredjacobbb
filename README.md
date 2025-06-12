@@ -13,6 +13,8 @@ I'm a passionate Frontend Developer with full-stack capabilities, dedicated to c
 <p align="left">
   <h4>Back-End</h4>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="php" width="40" height="40"/> </a>
+
 
   <h4>Scripting</h4>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/></a>
@@ -23,3 +25,5 @@ I'm a passionate Frontend Developer with full-stack capabilities, dedicated to c
 
 🔥 **Top Languages**  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredjacobbb&layout=compact&theme=radical)](https://github.com/fredjacobbb)
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
