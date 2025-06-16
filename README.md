@@ -28,6 +28,7 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
     &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>  
+    &nbsp;&nbsp;&nbsp;
   </p>
 
   <h4>Back</h4>
@@ -41,6 +42,7 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
   <h4>Full-Stack</h4>
   <p>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60" height="60"/>     
+    &nbsp;&nbsp;&nbsp;
   </p>
 
   <h4>Scripting</h4>
@@ -48,11 +50,13 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
     <img src="https://img.icons8.com/color/512/bash.png" width="60" height="60"/>
     &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60"/>
+    &nbsp;&nbsp;&nbsp;
   </p>
   
   <h4>Authentication</h4>
   <p>
     <img src="https://img.icons8.com/?size=512&id=rHpveptSuwDz&format=png" width="60" height="60">
+    &nbsp;&nbsp;&nbsp;
   </p>
   <br><br>
 </p>
@@ -63,6 +67,7 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="60" height="60"/>   
     &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" height="60"/>
+    &nbsp;&nbsp;&nbsp;
 </p>
 <br><br>
 
@@ -71,6 +76,7 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-W7LCJLVKLF.pdf">
   <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width="110" height="110"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 <br><br><br>
 
 📈 **GitHub Stats**  
