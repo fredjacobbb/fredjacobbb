@@ -3,7 +3,7 @@
 <br>
 
 ✨ **About Me**  
-I'm a passionate Frontend Developer with full-stack capabilities, dedicated to crafting beautiful, responsive, and user-friendly web experiences. With a strong foundation in modern JavaScript ecosystems and backend technologies, I love turning ideas into reality through code.
+I'm a passionate Developer, dedicated to crafting beautiful, responsive, and user-friendly web experiences. With a strong foundation in modern JavaScript ecosystems and backend technologies, I love turning ideas into reality through code.
 
 <br>
 
@@ -36,6 +36,11 @@ I'm a passionate Frontend Developer with full-stack capabilities, dedicated to c
     &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="60" height="60"/>
     &nbsp;&nbsp;&nbsp;
+  </p>
+
+  <h4>Fullstack</h4>
+  <p>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60" height="60"/>     
   </p>
 
   <h4>Scripting</h4>
