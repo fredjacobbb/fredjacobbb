@@ -84,7 +84,7 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
 <h2>🧑‍🎓 Jr Penetration Tester Certification</h2>
 <br>
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-W7LCJLVKLF.pdf">
-  <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width="110" height="110"/>
+  <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width="120" height="120"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <br><br><br><br>
