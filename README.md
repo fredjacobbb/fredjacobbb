@@ -12,8 +12,11 @@ I'm a passionate Frontend Developer with full-stack capabilities, dedicated to c
 - 🌱 Exploring advanced backend architectures with Node.js and Symfony  
 - 💡 Passionate about clean code, performance optimization and DevOps practices  
 - 🎯 Open to collaborating on innovative projects
+  
+<br><br>
 
 <h2 align="left">Languages :</h2>
+<br>
 <p align="left">
   
   <h4>Front</h4>
@@ -37,15 +40,22 @@ I'm a passionate Frontend Developer with full-stack capabilities, dedicated to c
 
   <h4>Scripting</h4>
   <p>  
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="60" height="60"/>
     &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60"/>
   </p>
+  <br><br>
 </p>
+
+<h2>Jr Penetration Tester Certification :</h2>
+<br>
+<p>
+  <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width="110" height="110"/>
+</p>
+<br><br>
 
 📈 **GitHub Stats**  
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fredjacobbb&show_icons=true&theme=radical)](https://github.com/fredjacobbb)
 
 🔥 **Top Languages**  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredjacobbb&layout=compact&theme=radical)](https://github.com/fredjacobbb)
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
