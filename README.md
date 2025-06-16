@@ -15,7 +15,7 @@ I'm a passionate Frontend Developer with full-stack capabilities, dedicated to c
   
 <br><br>
 
-<h2 align="left">Languages :</h2>
+<h2 align="left">Technologies</h2>
 <br>
 <p align="left">
   
@@ -44,15 +44,29 @@ I'm a passionate Frontend Developer with full-stack capabilities, dedicated to c
     &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60"/>
   </p>
+  
+  <h4>Authentication</h4>
+  <p>
+    <img src="https://img.icons8.com/?size=512&id=rHpveptSuwDz&format=png" width="60" height="60">
+  </p>
   <br><br>
 </p>
 
-<h2>Jr Penetration Tester Certification :</h2>
+<h2>Operating System</h2>
+<br><br>
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="60" height="60"/>   
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" height="60"/>
+</p>
+<br><br>
+
+<h2>Jr Penetration Tester Certification</h2>
 <br>
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-W7LCJLVKLF.pdf">
   <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width="110" height="110"/>
 </a>
-<br><br>
+<br><br><br>
 
 📈 **GitHub Stats**  
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fredjacobbb&show_icons=true&theme=radical)](https://github.com/fredjacobbb)
