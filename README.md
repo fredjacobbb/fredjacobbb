@@ -1,22 +1,21 @@
 <br><br>
 # A Web Developer from France
 
+
 <br>
 
 ✨ **About Me**  
 I'm a passionate Developer, dedicated to crafting beautiful, responsive, and user-friendly web experiences. With a strong foundation in modern JavaScript ecosystems and backend technologies, I love turning ideas into reality through code.
 
 <br>
-
-🚀 **What I Do**  
-- 🔭 Building pixel-perfect UIs with React, Next.js & Tailwind CSS  
-- 🌱 Exploring advanced backend architectures with Node.js and Symfony  
-- 💡 Passionate about clean code, performance optimization and DevOps practices  
-- 🎯 Open to collaborating on innovative projects
   
 <br><br>
 
-<h2 align="left">Technologies</h2>
+<h2 align="left">
+  <span style="vertical-align: middle;">⚒️</span>
+  Technologies
+</h2>
+
 <br>
 <p align="left">
   
@@ -70,7 +69,9 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
 </p>
 <br><br>
 
-<h2>Operating Systems</h2>
+<h2>
+  🧠 Operating Systems
+</h2>
 <br><br>
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="60" height="60"/>   
@@ -80,7 +81,7 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
 </p>
 <br><br>
 
-<h2>Jr Penetration Tester Certification</h2>
+<h2>🧑‍🎓 Jr Penetration Tester Certification</h2>
 <br>
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-W7LCJLVKLF.pdf">
   <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width="110" height="110"/>
@@ -91,16 +92,24 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
 <h2>🔐 Pentest & Security Tools</h2>
 <br>
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Burp_Suite_Logo.png" width="60" height="60" alt="Burp Suite" />
+  <img src="https://camo.githubusercontent.com/f925ba8bbcf89e384b6cac67565f0e4742b6f3a3aac8ee09a228ea1d31131907/68747470733a2f2f692e6962622e636f2f6376764239714a2f6275727073756974652e706e67" width="90"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Nmap-logo.svg" width="60" height="60" alt="Nmap" />
+  <img src="https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574256490" width="90" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_icon.svg" width="60" height="60" alt="Wireshark" />
+  <img src="https://cdn-js-head.geekeries.org/wp-content/uploads/2016/03/nmap-logo-256x256.png" width="90" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Metasploit_logo.png" width="60" height="60" alt="Metasploit" />
+  <img src="https://tomsitcafe.com/wp-content/uploads/2023/01/xhydra.png" width="90" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Azathothas/devicons/dev/icons/sqlmap/sqlmap-original.svg" width="60" height="60" alt="SQLmap"/>
+  <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="90" />
+    &nbsp;&nbsp;&nbsp;
+  <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="90" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/42502069?v=4" width="90"/>
+  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+
 </p>
+<br><br><br>
 
 
 📈 **GitHub Stats**  
