@@ -49,9 +49,9 @@ I'm a passionate Frontend Developer with full-stack capabilities, dedicated to c
 
 <h2>Jr Penetration Tester Certification :</h2>
 <br>
-<p>
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-W7LCJLVKLF.pdf">
   <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width="110" height="110"/>
-</p>
+</a>
 <br><br>
 
 📈 **GitHub Stats**  
