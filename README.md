@@ -38,6 +38,7 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
     &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="60" height="60"/>
     &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/>      
   </p>
 
   <h4>Full-Stack</h4>
