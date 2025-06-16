@@ -13,30 +13,33 @@ I'm a passionate Frontend Developer with full-stack capabilities, dedicated to c
 - 💡 Passionate about clean code, performance optimization and DevOps practices  
 - 🎯 Open to collaborating on innovative projects
 
-<h3 align="left">Languages :</h3>
+<h2 align="left">Languages :</h2>
 <p align="left">
   
   <h4>Front</h4>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
-  </a>
-  <a style="margin-left: 20px;" href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" />
+    &nbsp;&nbsp;&nbsp;
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
-  </a>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>  
+  </p>
 
   <h4>Back</h4>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+  <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> 
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="php" width="60" height="60"/>
-  </a>
-
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="60" height="60"/>
+    &nbsp;&nbsp;&nbsp;
+  </p>
 
   <h4>Scripting</h4>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <p>  
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/>
-  </a>
+    &nbsp;&nbsp;&nbsp;
+  </p>
 </p>
 
 📈 **GitHub Stats**  
