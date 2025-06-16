@@ -82,7 +82,7 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
 <br><br>
 
 <h2>🧑‍🎓 Jr Penetration Tester Certification</h2>
-<br>
+<br><br>
 <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-W7LCJLVKLF.pdf">
   <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width="120" height="120"/>
 </a>
@@ -90,7 +90,7 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
 <br><br><br><br>
 
 <h2>🔐 Pentest & Security Tools</h2>
-<br>
+<br><br>
 <p>
   <img src="https://camo.githubusercontent.com/f925ba8bbcf89e384b6cac67565f0e4742b6f3a3aac8ee09a228ea1d31131907/68747470733a2f2f692e6962622e636f2f6376764239714a2f6275727073756974652e706e67" width="90"/>
   &nbsp;&nbsp;&nbsp;
@@ -107,7 +107,6 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
   <img src="https://avatars.githubusercontent.com/u/42502069?v=4" width="90"/>
   &nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
-
 </p>
 <br><br><br>
 
