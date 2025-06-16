@@ -59,8 +59,15 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
     <img src="https://img.icons8.com/?size=512&id=rHpveptSuwDz&format=png" width="60" height="60">
     &nbsp;&nbsp;&nbsp;
   </p>
-  <br><br>
+  
+  <h4>Virtualization</h4>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60" height="60"/>      
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://grafikart.fr/uploads/icons/virtualbox.png" width="60" height="60"/>      
+  </p>
 </p>
+<br><br>
 
 <h2>Operating System</h2>
 <br><br>
@@ -78,7 +85,7 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
   <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width="110" height="110"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<br><br><br>
+<br><br><br><br>
 
 📈 **GitHub Stats**  
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fredjacobbb&show_icons=true&theme=radical)](https://github.com/fredjacobbb)
