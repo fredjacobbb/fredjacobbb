@@ -1,5 +1,5 @@
 <br><br>
-<h1>I'm Junior Web Developer with perpetual progress in tech' field ! 🙂</h1>
+<h1>A Junior Web Developer, constantly growing in the tech field. 🙂</h1>
 
 
 <br>
