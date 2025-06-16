@@ -70,7 +70,7 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
 </p>
 <br><br>
 
-<h2>Operating System</h2>
+<h2>Operating Systems</h2>
 <br><br>
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="60" height="60"/>   
@@ -87,6 +87,21 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
 </a>
 &nbsp;&nbsp;&nbsp;
 <br><br><br><br>
+
+<h2>🔐 Pentest & Security Tools</h2>
+<br>
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Burp_Suite_Logo.png" width="60" height="60" alt="Burp Suite" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Nmap-logo.svg" width="60" height="60" alt="Nmap" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_icon.svg" width="60" height="60" alt="Wireshark" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Metasploit_logo.png" width="60" height="60" alt="Metasploit" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Azathothas/devicons/dev/icons/sqlmap/sqlmap-original.svg" width="60" height="60" alt="SQLmap"/>
+</p>
+
 
 📈 **GitHub Stats**  
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fredjacobbb&show_icons=true&theme=radical)](https://github.com/fredjacobbb)
