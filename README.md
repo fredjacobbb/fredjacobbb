@@ -38,7 +38,7 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
     &nbsp;&nbsp;&nbsp;
   </p>
 
-  <h4>Fullstack</h4>
+  <h4>Full-Stack</h4>
   <p>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60" height="60"/>     
   </p>
