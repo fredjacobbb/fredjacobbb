@@ -54,7 +54,7 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
     &nbsp;&nbsp;&nbsp;
   </p>
   
-  <h4>Authentication</h4>
+  <h4>Authentication JWT</h4>
   <p>
     <img src="https://img.icons8.com/?size=512&id=rHpveptSuwDz&format=png" width="60" height="60">
     &nbsp;&nbsp;&nbsp;
