@@ -52,6 +52,8 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
     &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60"/>
     &nbsp;&nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/209884/92572337-42b42900-f2bf-11ea-973a-c74a359553a5.png" width="60" height="60"/>
+    &nbsp;&nbsp;&nbsp;
   </p>
   
   <h4>Authentication JWT</h4>
