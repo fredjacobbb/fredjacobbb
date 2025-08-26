@@ -52,7 +52,7 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
     &nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60"/>
     &nbsp;&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/209884/92572337-42b42900-f2bf-11ea-973a-c74a359553a5.png" width="60" height="60"/>
+    <img src="https://media.licdn.com/dms/image/v2/C4D12AQHZrQxv90Q7xA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1602342055536?e=2147483647&v=beta&t=QCtQa_5GkrVGp2yC4p_roi7e2rQCmdSaVkMz4OD_n9w" width="60" height="60"/>
     &nbsp;&nbsp;&nbsp;
   </p>
   
