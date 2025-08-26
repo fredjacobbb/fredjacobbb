@@ -11,7 +11,7 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
   
 <br><br>
 
-<h2 style="font-size:125px" align="left">
+<h2 align="left">
   <span style="vertical-align: middle;">⚒️</span>
   Technologies
 </h2>
