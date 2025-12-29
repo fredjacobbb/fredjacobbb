@@ -85,7 +85,6 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
     &nbsp;&nbsp;&nbsp;
   </p>
 
-  https://www.hexatrust.com/membres/crowdsec/
 </p>
 <br><br>
 
