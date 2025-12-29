@@ -61,7 +61,7 @@
   <p>
     <img src="https://img.icons8.com/?size=512&id=rHpveptSuwDz&format=png" width="60" height="60">
     &nbsp;&nbsp;&nbsp;
-    <img src="https://encore.dev/assets/templates/auth0.png" width="60" height="60">
+    <img src="https://encore.dev/assets/templates/auth0.png" width="100" height="100">
     &nbsp;&nbsp;&nbsp;
   </p>
   
