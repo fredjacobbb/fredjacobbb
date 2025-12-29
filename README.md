@@ -75,7 +75,7 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
 
   <h4>Proxy</h4>
   <p>
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://docs.traefik.io/assets/img/traefik.logo.png)" alt="javascript" width="60" height="60"/> 
+    <img src="https://docs.traefik.io/assets/img/traefik.logo.png" width="60" height="60"/> 
     &nbsp;&nbsp;&nbsp;
   </p>
 </p>
