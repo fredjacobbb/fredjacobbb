@@ -78,6 +78,14 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
     <img src="https://docs.traefik.io/assets/img/traefik.logo.png" width="100" height="100"/> 
     &nbsp;&nbsp;&nbsp;
   </p>
+
+  <h4>WAF/IPS</h4>
+  <p>
+    <img src="https://www.hexatrust.com/membres/crowdsec/" width="100" height="100"/> 
+    &nbsp;&nbsp;&nbsp;
+  </p>
+
+  https://www.hexatrust.com/membres/crowdsec/
 </p>
 <br><br>
 
