@@ -79,9 +79,9 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
     &nbsp;&nbsp;&nbsp;
   </p>
 
-  <h4>WAF/IPS</h4>
+  <h4>WAF / IPS (Intrusion Prevention System)</h4>
   <p>
-    <img src="https://www.hexatrust.com/membres/crowdsec/" width="100" height="100"/> 
+    <img src="https://www.hexatrust.com/wp-content/uploads/2023/03/CROWDSEC_Logo_Site.png" width="100" height="100"/> 
     &nbsp;&nbsp;&nbsp;
   </p>
 
