@@ -2,7 +2,7 @@
 
 <br><br>
 
-<h1>Passionné de cyber, imposteur motivé à temps plein. &#x1F427;</h1>
+<h1>Passionné de cyber, autodidacte, super-imposteur mais je le vis mieux !</h1>
 
 <br>
   
@@ -57,9 +57,11 @@
     &nbsp;&nbsp;&nbsp;
   </p>
   
-  <h4>Authentication JWT</h4>
+  <h4>Authentication</h4>
   <p>
     <img src="https://img.icons8.com/?size=512&id=rHpveptSuwDz&format=png" width="60" height="60">
+    &nbsp;&nbsp;&nbsp;
+    <img src="[https://encore.dev/assets/templates/auth0.png" width="60" height="60">
     &nbsp;&nbsp;&nbsp;
   </p>
   
