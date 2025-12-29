@@ -2,7 +2,7 @@
   <a href="https://taxi-a-tout-heure.fr">Le site sur lequel je bosse actuellement.</a>
 <br><br>
 
-<h1>Passionné de cyber, autodidacte, super-imposteur mais je le vis mieux !</h1>
+<h1>Passionné de cyber, autodidacte et super-imposteur mais je le vis mieux !</h1>
 
 <br>
   
