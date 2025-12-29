@@ -2,7 +2,7 @@
 
 <br><br>
 
-<h1>Passionné de cyber. Imposteur motivé à temps plein.</h1>
+<h1>Passionné de cyber, imposteur motivé à temps plein. &#x1F427;</h1>
 
 <br>
   
