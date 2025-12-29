@@ -1,11 +1,8 @@
 <br><br>
 
-<h1>A JUNIOR WEB DEVELOPER FROM FRANCE</h1>
-
 <br><br>
 
-✨ **About Me**  
-I'm a passionate Developer, dedicated to crafting beautiful, responsive, and user-friendly web experiences. With a strong foundation in modern JavaScript ecosystems and backend technologies, I love turning ideas into reality through code.
+✨ <h1>Passionné de cyber. Imposteur motivé à temps plein.</h1>
 
 <br>
   
