@@ -75,7 +75,7 @@ I'm a passionate Developer, dedicated to crafting beautiful, responsive, and use
 
   <h4>Proxy</h4>
   <p>
-    <img src="https://docs.traefik.io/assets/img/traefik.logo.png" width="80" height="80"/> 
+    <img src="https://docs.traefik.io/assets/img/traefik.logo.png" width="100" height="100"/> 
     &nbsp;&nbsp;&nbsp;
   </p>
 </p>
