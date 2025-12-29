@@ -128,9 +128,3 @@
 </p>
 <br><br><br>
 
-
-📈 **GitHub Stats**  
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fredjacobbb&show_icons=true&theme=radical)](https://github.com/fredjacobbb)
-
-🔥 **Top Languages**  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredjacobbb&layout=compact&theme=radical)](https://github.com/fredjacobbb)
