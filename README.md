@@ -90,7 +90,7 @@
   <br><br>
   
   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-W7LCJLVKLF.pdf">
-    <img src="https://friconix.com/png/fi-onsuxx-tryhackme.png" width="120" height="120"/>
+    <img src="https://friconix.com/png/fi-onsuxx-tryhackme.png" width="80" height="80"/>
   </a>
   
   &nbsp;&nbsp;&nbsp;
