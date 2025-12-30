@@ -16,7 +16,6 @@
   
   <br>
   <p align="left">
-    
     <h4>Front</h4>
     <p>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
@@ -28,7 +27,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>  
       &nbsp;&nbsp;&nbsp;
     </p>
-  
     <h4>Back</h4>
     <p>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> 
@@ -41,13 +39,11 @@
       &nbsp;&nbsp;&nbsp;
       <img src="https://tsed.dev/mongoose.png" width="60" height="60"/>
     </p>
-  
     <h4>Full-Stack</h4>
     <p>  
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60" height="60"/>     
       &nbsp;&nbsp;&nbsp;
     </p>
-  
     <h4>Scripting</h4>
     <p>  
       <img src="https://img.icons8.com/color/512/bash.png" width="60" height="60"/>
@@ -57,7 +53,6 @@
       <img src="https://media.licdn.com/dms/image/v2/C4D12AQHZrQxv90Q7xA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1602342055536?e=2147483647&v=beta&t=QCtQa_5GkrVGp2yC4p_roi7e2rQCmdSaVkMz4OD_n9w" width="60" height="60"/>
       &nbsp;&nbsp;&nbsp;
     </p>
-    
     <h4>Authentication</h4>
     <p>
       <img src="https://img.icons8.com/?size=512&id=rHpveptSuwDz&format=png" width="60" height="60">
@@ -65,26 +60,22 @@
       <img src="https://encore.dev/assets/templates/auth0.png" width="100" height="100">
       &nbsp;&nbsp;&nbsp;
     </p>
-    
     <h4>Virtualization</h4>
     <p>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60" height="60"/>      
       &nbsp;&nbsp;&nbsp;
       <img src="https://grafikart.fr/uploads/icons/virtualbox.png" width="60" height="60"/>      
     </p>
-  
     <h4>Proxy</h4>
     <p>
       <img src="https://docs.traefik.io/assets/img/traefik.logo.png" width="100" height="100"/> 
       &nbsp;&nbsp;&nbsp;
     </p>
-  
     <h4>WAF / IPS (Intrusion Prevention System)</h4>
     <p>
       <img src="https://www.hexatrust.com/wp-content/uploads/2023/03/CROWDSEC_Logo_Site.png" width="100" height="100"/> 
       &nbsp;&nbsp;&nbsp;
     </p>
-  
   </p>
   <br><br>
   
