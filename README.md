@@ -90,7 +90,7 @@
   <br><br>
   
   <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-W7LCJLVKLF.pdf">
-    <img style="background:#0d1117;" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width="120" height="120"/>
+    <img style="background:black" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width="120" height="120"/>
   </a>
   
   &nbsp;&nbsp;&nbsp;
