@@ -39,11 +39,6 @@
       &nbsp;&nbsp;&nbsp;
       <img src="https://tsed.dev/mongoose.png" width="60" height="60"/>
     </p>
-    <h4>Full-Stack</h4>
-    <p>  
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60" height="60"/>     
-      &nbsp;&nbsp;&nbsp;
-    </p>
     <h4>Scripting</h4>
     <p>  
       <img src="https://img.icons8.com/color/512/bash.png" width="60" height="60"/>
