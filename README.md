@@ -1,6 +1,6 @@
-<div style="background-color: black;">
+<div style="background: black;">
   <br><br>
-  <a href="https://taxi-a-tout-heure.fr">Le site sur lequel je bosse actuellement.</a>
+  <a href="https://taxi-a-tout-heure.fr">Le site sur lequel je bosse actuellement. ( ce n'est pas fini du tout, liens brisés etc..)</a>
   <br><br>
   
   <h1>Passionné de cyber, autodidacte et super-imposteur mais je le vis mieux !</h1>
