@@ -99,15 +99,30 @@
   <h2>🔐 Pentest & Security Tools</h2>
   <br><br>
   <p>
-    <img src="https://cdn-js-head.geekeries.org/wp-content/uploads/2016/03/nmap-logo-256x256.png" width="90" />
+    <div>
+      <p>NMAP</p>
+      <img src="https://cdn-js-head.geekeries.org/wp-content/uploads/2016/03/nmap-logo-256x256.png" width="90" />
+    </div>
     &nbsp;&nbsp;&nbsp;
-    <img src="https://tomsitcafe.com/wp-content/uploads/2023/01/xhydra.png" width="90" />
+    <div>
+      <p>HYDRA</p>
+      <img src="https://tomsitcafe.com/wp-content/uploads/2023/01/xhydra.png" width="90" />
+    </div>
     &nbsp;&nbsp;&nbsp;
-    <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="90" />
+    <div>
+      <p></p>
+      <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="90" />
+    </div>
       &nbsp;&nbsp;&nbsp;
-    <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="90" />
+      <div>
+        <p>NETCAT</p>
+        <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="90" />
+      </div>
     &nbsp;&nbsp;&nbsp;
-    <img src="https://avatars.githubusercontent.com/u/42502069?v=4" width="90"/>
+    <div>
+      <p>GOBUSTER</p>
+      <img src="https://avatars.githubusercontent.com/u/42502069?v=4" width="90"/>
+    </div>
     &nbsp;&nbsp;&nbsp;
     &nbsp;&nbsp;&nbsp;
   </p>
