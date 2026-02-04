@@ -98,7 +98,7 @@
   
   <h2>🔐 Pentest & Security Tools</h2>
   <br><br>
-    <p style="text-align: left;">
+    <p>
       <img src="https://nmap.org/images/nmap-logo-256x256.png" width="72" alt="Nmap">
       NMAP
       &emsp;
