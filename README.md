@@ -98,7 +98,6 @@
   
   <h2>🔐 Pentest & Security Tools</h2>
   <br><br>
-  <p align="center">
   <img src="https://cdn-js-head.geekeries.org/wp-content/uploads/2016/03/nmap-logo-256x256.png" width="72"><br>Nmap
   &emsp;
   <img src="https://tomsitcafe.com/wp-content/uploads/2023/01/xhydra.png" width="72"><br>Hydra
@@ -106,7 +105,6 @@
   <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="72"><br>Gobuster
   &emsp;
   <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="72"><br>Netcat
-</p>
   <br><br><br>
 </div>
 
