@@ -99,8 +99,6 @@
   <h2>🔐 Pentest & Security Tools</h2>
   <br><br>
   <p>
-    <img src="https://camo.githubusercontent.com/f925ba8bbcf89e384b6cac67565f0e4742b6f3a3aac8ee09a228ea1d31131907/68747470733a2f2f692e6962622e636f2f6376764239714a2f6275727073756974652e706e67" width="90"/>
-    &nbsp;&nbsp;&nbsp;
     <img src="https://cdn-js-head.geekeries.org/wp-content/uploads/2016/03/nmap-logo-256x256.png" width="90" />
     &nbsp;&nbsp;&nbsp;
     <img src="https://tomsitcafe.com/wp-content/uploads/2023/01/xhydra.png" width="90" />
