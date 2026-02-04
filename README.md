@@ -98,7 +98,7 @@
   
   <h2>🔐 Pentest & Security Tools</h2>
   <br><br>
-  <div>
+  <div style="display:inline">
   <div>
     <p>NMAP</p>
     <img src="https://cdn-js-head.geekeries.org/wp-content/uploads/2016/03/nmap-logo-256x256.png" width="90" />
