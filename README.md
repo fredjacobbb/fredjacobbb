@@ -98,7 +98,7 @@
   
   <h2>🔐 Pentest & Security Tools</h2>
   <br><br>
-    <p style="text-align: left; margin: 1em;">
+    <p style="text-align: left; margin: 25px;">
       <img src="https://nmap.org/images/nmap-logo-256x256.png" width="72" alt="Nmap">
       <img src="https://github.com/vanhauser-thc/thc-hydra/raw/master/hydra-logo.ico" width="72" alt="Hydra">
       <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="72" alt="Gobuster">
