@@ -1,6 +1,9 @@
 <div style="background: black;">
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
+  </div>  
   <br><br>
-  <a href="https://taxi-a-tout-heure.fr">Le site sur lequel je bosse actuellement. ( ce n'est pas fini du tout, liens brisés, envoi d'email etc..)</a>
+  <a href="https://taxi-a-tout-heure.fr">Le site sur lequel je bosse actuellement. ( ce n'est pas fini :)</a>
   <br><br>
   
   <h1>Passionné de cyber, autodidacte et super-imposteur mais je le vis mieux !</h1>
