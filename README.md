@@ -109,7 +109,7 @@
       &emsp;
     </p>
     <p style="text-align: left;">
-      Nmap  Hydra  Gobuster  Netcat
+      Nmap &emsp;  Hydra &emsp; Gobuster &emsp; Netcat
     </p>
   <br><br><br>
 </div>
