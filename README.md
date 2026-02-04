@@ -99,23 +99,21 @@
   
   <h2>🔐 Pentest & Security Tools</h2>
   <br><br>
-  <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <div style="text-align: center; display: inline">
-      <img src="https://nmap.org/images/nmap-logo-256x256.png" width="100" alt="Nmap"><br>
-      <strong>Nmap</strong>
-    </div>
-    <div style="text-align: center; display: inline">
-      <img src="https://raw.githubusercontent.com/vanhauser-thc/thc-hydra/master/xhydra.png" width="100" alt="Hydra"><br>
-      <strong>Hydra</strong>
-    </div>
-    <div style="text-align: center; display: inline">
-      <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="100" alt="Gobuster"><br>
-      <strong>Gobuster</strong>
-    </div>
-    <div style="text-align: center; display: inline">
-      <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="100" alt="Netcat"><br>
-      <strong>Netcat</strong>
-    </div>
-  </p>
+  <div style="text-align: center; display: inline">
+    <img src="https://nmap.org/images/nmap-logo-256x256.png" width="100" alt="Nmap"><br>
+    <strong>Nmap</strong>
+  </div>
+  <div style="text-align: center; display: inline">
+    <img src="https://raw.githubusercontent.com/vanhauser-thc/thc-hydra/master/xhydra.png" width="100" alt="Hydra"><br>
+    <strong>Hydra</strong>
+  </div>
+  <div style="text-align: center; display: inline">
+    <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="100" alt="Gobuster"><br>
+    <strong>Gobuster</strong>
+  </div>
+  <div style="text-align: center; display: inline">
+    <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="100" alt="Netcat"><br>
+    <strong>Netcat</strong>
+  </div>
 </div>
 
