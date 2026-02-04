@@ -100,7 +100,7 @@
   <h2>🔐 Pentest & Security Tools</h2>
   <br><br>
   <p>
-    <a href="https://go-skill-icons.vercel.app/" width="90" height="90">
+    <a href="https://go-skill-icons.vercel.app/" width="100" height="100">
       <img
         src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,nmap,golang"
       />
