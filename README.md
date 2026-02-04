@@ -98,7 +98,7 @@
   
   <h2>🔐 Pentest & Security Tools</h2>
   <br><br>
-  <p align="left">
+  <p>
     <img src="https://nmap.org/images/nmap-logo-256x256.png" width="72"><br>Nmap
     &emsp;&emsp;
     <img src="https://raw.githubusercontent.com/vanhauser-thc/thc-hydra/master/xhydra.png" width="72"><br>Hydra
