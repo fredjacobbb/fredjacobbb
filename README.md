@@ -98,7 +98,7 @@
   
   <h2>🔐 Pentest & Security Tools</h2>
   <br><br>
-    <p style="text-align: left; margin: 25px;">
+    <p style="text-align: left;">
       <img src="https://nmap.org/images/nmap-logo-256x256.png" width="72" alt="Nmap">
       &emsp;
       <img src="https://github.com/vanhauser-thc/thc-hydra/raw/master/hydra-logo.ico" width="72" alt="Hydra">
@@ -109,7 +109,7 @@
       &emsp;
     </p>
     <p style="text-align: left;">
-      Nmap&emsp;Hydra&emsp;Gobuster&emsp;Netcat    
+      Nmap &emsp; Hydra &emsp; Gobuster &emsp; Netcat    
     </p>
   <br><br><br>
 </div>
