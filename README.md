@@ -5,10 +5,8 @@
   <br><br>
  <h1>Passionné de cyber, autodidacte et super-imposteur mais je le vis mieux !</h1>
   <br><br>
-  <a href="https://taxi-a-tout-heure.fr">Site sur lequel je bosse actuellement. ( ce n'est pas fini :)</a>
-  <br><br>
   
-  <br>
+  <a href="https://taxi-a-tout-heure.fr">Site sur lequel je bosse actuellement. ( ce n'est pas fini :)</a>
     
   <br><br>
   
