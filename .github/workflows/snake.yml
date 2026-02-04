@@ -16,8 +16,9 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}  # ← ton username auto (fredjacobbb)
           outputs: |
-            output/github-snake.svg
-            output/github-snake-dark.svg?palette=github-dark
+              output/github-snake.svg?palette=github
+              output/github-snake-dark.svg?palette=github-dark
+              output/github-snake-ocean.svg?palette=ocean  # essaie ocean, retro, etc.
 
       - name: Deploy SVGs
         uses: crazy-max/ghaction-github-pages@v4
