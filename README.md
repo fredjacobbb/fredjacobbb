@@ -99,22 +99,23 @@
   
   <h2>🔐 Pentest & Security Tools</h2>
   <br><br>
-  <p>
-    <img src="https://nmap.org/images/nmap-logo-256x256.png" width="72"><br>Nmap
-    &emsp;&emsp;
-    <img src="https://raw.githubusercontent.com/vanhauser-thc/thc-hydra/master/xhydra.png" width="72"><br>Hydra
-    &emsp;&emsp;
-    <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="72"><br>Gobuster
-    &emsp;&emsp;
-    <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="72"><br>Netcat
-  </p>
-  <br><br><br>
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fredjacobbb/fredjacobbb/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fredjacobbb/fredjacobbb/output/github-snake.svg" />
-      <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/fredjacobbb/fredjacobbb/output/github-snake.svg" />
-    </picture>
+  <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+    <div style="text-align: center; display: inline">
+      <img src="https://nmap.org/images/nmap-logo-256x256.png" width="100" alt="Nmap"><br>
+      <strong>Nmap</strong>
+    </div>
+    <div style="text-align: center; display: inline">
+      <img src="https://raw.githubusercontent.com/vanhauser-thc/thc-hydra/master/xhydra.png" width="100" alt="Hydra"><br>
+      <strong>Hydra</strong>
+    </div>
+    <div style="text-align: center; display: inline">
+      <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="100" alt="Gobuster"><br>
+      <strong>Gobuster</strong>
+    </div>
+    <div style="text-align: center; display: inline">
+      <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="100" alt="Netcat"><br>
+      <strong>Netcat</strong>
+    </div>
   </p>
 </div>
 
