@@ -105,11 +105,15 @@
       <img src="https://github.com/vanhauser-thc/thc-hydra/raw/master/hydra-logo.ico" width="72" alt="Hydra">
       HYDRA
       &emsp;
-      <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="72" alt="Gobuster">
-      GOBUSTER
+      <p>
+        <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="72" alt="Gobuster">
+        GOBUSTER
+      </p>
       &emsp;
-      <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="72" alt="Netcat">
-      NETCAT
+      <p>
+        <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="72" alt="Netcat">
+        NETCAT
+      </p>
       &emsp;
     </p>
   <br><br><br>
