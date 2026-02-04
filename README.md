@@ -100,16 +100,17 @@
   <br><br>
     <p style="text-align: left;">
       <img src="https://nmap.org/images/nmap-logo-256x256.png" width="72" alt="Nmap">
+      NMAP
       &emsp;
       <img src="https://github.com/vanhauser-thc/thc-hydra/raw/master/hydra-logo.ico" width="72" alt="Hydra">
+      HYDRA
       &emsp;
       <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="72" alt="Gobuster">
+      GOBUSTER
       &emsp;
       <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="72" alt="Netcat">
+      NETCAT
       &emsp;
-    </p>
-    <p style="text-align: left;">
-      Nmap  &emsp;  Hydra  &emsp;  Gobuster  &emsp;  Netcat    
     </p>
   <br><br><br>
 </div>
