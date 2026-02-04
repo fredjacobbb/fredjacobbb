@@ -102,7 +102,7 @@
   <p>
     <a href="https://go-skill-icons.vercel.app/" width="100" height="100">
       <img
-        src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,nmap,golang"
+        src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,nmap,golang" width="100" height="100"
       />
     </a>
   </p>
