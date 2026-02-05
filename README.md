@@ -5,7 +5,7 @@
   <br><br>
   <p align="center">
     <img 
-      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=80&pause=500&color=00ff7f&center=true&vCenter=true&width=1200&height=350&repeat=true&lines=Passionn%C3%A9+de+cyber;Autodidacte;Super-imposteur;Mais+je+le+vis+mieux+%21" 
+      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=90&pause=500&color=00ff7f&center=true&vCenter=true&width=1200&height=350&repeat=true&lines=Passionn%C3%A9+de+cyber;Autodidacte;Super-imposteur;Mais+je+le+vis+mieux+%21" 
       alt="Typing SVG"
     />
   </p>  
