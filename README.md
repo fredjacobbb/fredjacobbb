@@ -6,7 +6,7 @@
  <h1>Passionné de cyber, autodidacte et super-imposteur mais je le vis mieux !</h1>
   <br><br>
   
-  <a href="https://taxi-a-tout-heure.fr">Site sur lequel je bosse actuellement. ( ce n'est pas fini :)</a>
+  <a href="https://taxi-a-tout-heure.fr">Site sur lequel je bosse actuellement. ( ce n'est pas fini :) STACK : TRAEFIK , CROWDSEC ( BAN si comportement suspect ex : SSH-BRUTE-FORCE || SQLI || XSS || .env || .git || + partage en communauté des IP flagués comme malveillantes ) , REACT, EXPRESS, MONGOOSE </a>
     
   <br><br>
   
@@ -26,8 +26,8 @@
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
       &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>  
-      &nbsp;&nbsp;&nbsp;
     </p>
+    &nbsp;&nbsp;&nbsp;
     <h4>Back</h4>
     <p>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> 
@@ -36,10 +36,19 @@
       &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/>
       &nbsp;&nbsp;&nbsp;
-      <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" width="60" height="60"/>
+      <a href="https://go-skill-icons.vercel.app/">
+        <img
+          src="https://go-skill-icons.vercel.app/api/icons?i=expressjs"
+        />
+      </a>    
       &nbsp;&nbsp;&nbsp;
-      <img src="https://tsed.dev/mongoose.png" width="60" height="60"/>
+      <a href="https://go-skill-icons.vercel.app/">
+        <img
+          src="https://go-skill-icons.vercel.app/api/icons?i=mongoose"
+        />
+      </a>   
     </p>
+    &nbsp;&nbsp;&nbsp;
     <h4>Scripting</h4>
     <p>  
       <img src="https://img.icons8.com/color/512/bash.png" width="60" height="60"/>
@@ -47,8 +56,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60"/>
       &nbsp;&nbsp;&nbsp;
       <img src="https://media.licdn.com/dms/image/v2/C4D12AQHZrQxv90Q7xA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1602342055536?e=2147483647&v=beta&t=QCtQa_5GkrVGp2yC4p_roi7e2rQCmdSaVkMz4OD_n9w" width="60" height="60"/>
-      &nbsp;&nbsp;&nbsp;
     </p>
+    &nbsp;&nbsp;&nbsp;
     <h4>Authentication</h4>
     <p>
       <img src="https://img.icons8.com/?size=512&id=rHpveptSuwDz&format=png" width="60" height="60">
@@ -56,22 +65,24 @@
       <img src="https://encore.dev/assets/templates/auth0.png" width="100" height="100">
       &nbsp;&nbsp;&nbsp;
     </p>
+    &nbsp;&nbsp;&nbsp;
     <h4>Virtualization</h4>
     <p>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60" height="60"/>      
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="100" height="100"/>      
       &nbsp;&nbsp;&nbsp;
-      <img src="https://grafikart.fr/uploads/icons/virtualbox.png" width="60" height="60"/>      
+      <img src="https://grafikart.fr/uploads/icons/virtualbox.png" width="80" height="80"/>      
     </p>
+    &nbsp;&nbsp;
     <h4>Proxy</h4>
     <p>
-      <img src="https://docs.traefik.io/assets/img/traefik.logo.png" width="100" height="100"/> 
-      &nbsp;&nbsp;&nbsp;
+      <img src="https://docs.traefik.io/assets/img/traefik.logo.png" width="120" height="120"/> 
     </p>
+    &nbsp;&nbsp;&nbsp;
     <h4>WAF / IPS (Intrusion Prevention System)</h4>
     <p>
-      <img src="https://www.hexatrust.com/wp-content/uploads/2023/03/CROWDSEC_Logo_Site.png" width="100" height="100"/> 
-      &nbsp;&nbsp;&nbsp;
+      <img src="https://www.hexatrust.com/wp-content/uploads/2023/03/CROWDSEC_Logo_Site.png" width="130" height="130"/> 
     </p>
+    &nbsp;&nbsp;
   </p>
   <br><br>
   
@@ -83,8 +94,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="60" height="60"/>   
       &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" height="60"/>
-      &nbsp;&nbsp;&nbsp;
   </p>
+  &nbsp;&nbsp;&nbsp;
   <br><br>
   
   <h2>🧑‍🎓 Jr Penetration Tester Certification</h2>
@@ -95,16 +106,54 @@
   </a>
   
   &nbsp;&nbsp;&nbsp;
-  <br><br>
+  <br><br><br>
   
   <h2>🔐 Pentest & Security Tools</h2>
   <br><br>
   <p>
-    <a href="https://go-skill-icons.vercel.app/">
+    <a href="https://www.kali.org/tools/hydra/">
       <img
-        src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,nmap,golang"
+        src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="90" height="90"
+      />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.kali.org/tools/burpsuite/">
+      <img
+        src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="90" height="90"
+      />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.kali.org/tools/gobuster/">
+      <img
+        src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="90" height="90"
+      />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.kali.org/tools/nmap/">
+      <img
+        src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="90" height="90"
+      />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.kali.org/tools/netcat/">
+      <img
+        src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="90" height="90"
+      />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.kali.org/tools/metasploit-framework/">
+      <img
+        src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="90" height="90"
       />
     </a>
   </p>
-</div>
+  <br><br><br><br>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fredjacobbb/fredjacobbb/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fredjacobbb/fredjacobbb/output/github-snake.svg" />
+      <img alt="github snake" src="https://raw.githubusercontent.com/fredjacobbb/fredjacobbb/output/github-snake.svg" />
+    </picture>
+  </p>
 
+</div>
