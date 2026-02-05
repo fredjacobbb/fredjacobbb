@@ -13,7 +13,7 @@
   
   <p>
     <a href="https://taxi-a-tout-heure.fr">
-      <img src="https://img.shields.io/badge/Site%20en%20cours%20%E2%9C%A8-taxi--a--tout--heure.fr-00ff9f?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=000000" alt="Site en cours">
+      <img src="https://img.shields.io/badge/Site%20en%20cours%20%E2%9C%A8-taxi--a--tout--heure.fr-00ff50?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=000000&color=FFFFFF" alt="Site en cours">
     </a>
   </p>
 
@@ -85,9 +85,9 @@
     </p>
     &nbsp;&nbsp;
     <h4>Proxy</h4>
-    <p>
+    <a href="https://doc.traefik.io/traefik/">
       <img src="https://docs.traefik.io/assets/img/traefik.logo.png" width="120" height="120"/> 
-    </p>
+    </a>
     &nbsp;&nbsp;&nbsp;
     <h4>WAF / IPS (Intrusion Prevention System)</h4>
     <p>
