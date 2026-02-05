@@ -11,7 +11,11 @@
   </p>  
   <br><br>
   
-  <a href="https://taxi-a-tout-heure.fr">Site sur lequel je bosse actuellement. ( ce n'est pas fini :) </a><br>
+  <p>
+    <a href="https://taxi-a-tout-heure.fr">
+      <img src="https://img.shields.io/badge/Site%20en%20cours%20%E2%9C%A8-taxi--a--tout--heure.fr-00ff9f?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=000000" alt="Site en cours">
+    </a>
+  </p>
 
   <p>Stack :  TRAEFIK , CROWDSEC ( BAN si comportement suspect ex : SSH-BRUTE-FORCE || SQLI || XSS || .env || .git || + partage en communauté des IP flagués comme malveillantes + protection contre exploitation de CVE fingerprinté dans le hub ) , REACT, EXPRESS, MONGOOSE, déployer sur un VPS et conteneurisé avec DOCKER</p>
     
