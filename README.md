@@ -6,7 +6,9 @@
  <h1>Passionné de cyber, autodidacte et super-imposteur mais je le vis mieux !</h1>
   <br><br>
   
-  <a href="https://taxi-a-tout-heure.fr">Site sur lequel je bosse actuellement. ( ce n'est pas fini :) STACK : TRAEFIK , CROWDSEC ( BAN si comportement suspect ex : SSH-BRUTE-FORCE || SQLI || XSS || .env || .git || + partage en communauté des IP flagués comme malveillantes + protection contre exploitation de CVE fingerprinté dans le hub ) , REACT, EXPRESS, MONGOOSE </a>
+  <a href="https://taxi-a-tout-heure.fr">Site sur lequel je bosse actuellement. ( ce n'est pas fini :) </a><br>
+
+  <p>STACK :  TRAEFIK , CROWDSEC ( BAN si comportement suspect ex : SSH-BRUTE-FORCE || SQLI || XSS || .env || .git || + partage en communauté des IP flagués comme malveillantes + protection contre exploitation de CVE fingerprinté dans le hub ) , REACT, EXPRESS, MONGOOSE</p>
     
   <br><br>
   
@@ -125,25 +127,25 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.kali.org/tools/gobuster/">
       <img
-        src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="90" height="90"
+        src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="70" height="70"
       />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.kali.org/tools/nmap/">
       <img
-        src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="90" height="90"
+        src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="70" height="70"
       />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.kali.org/tools/netcat/">
       <img
-        src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="90" height="90"
+        src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" width="70" height="70"
       />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.kali.org/tools/metasploit-framework/">
       <img
-        src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="90" height="90"
+        src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="70" height="70"
       />
     </a>
   </p>
