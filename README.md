@@ -176,7 +176,7 @@
     <a href="https://go-skill-icons.vercel.app/">
       <img width="200" height="200"
         src="https://go-skill-icons.vercel.app/api/icons?i=vscode,vim,neovim"
-      /> + nano (lol)
+      /> + nano (en cas durgence lol)
     </a>
   </p>
   &nbsp;&nbsp;&nbsp;
