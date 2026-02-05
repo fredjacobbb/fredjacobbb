@@ -1,9 +1,14 @@
 <div style="background: black;">
   <div align="center">
-    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
+    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" width="100%" height="160px" />
   </div>  
   <br><br>
- <h1>Passionné de cyber, autodidacte et super-imposteur mais je le vis mieux !</h1>
+  <p align="center">
+    <img 
+      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=80&pause=500&color=00ff7f&center=true&vCenter=true&width=1200&height=350&repeat=true&lines=Passionn%C3%A9+de+cyber;Autodidacte;Super-imposteur;Mais+je+le+vis+mieux+%21" 
+      alt="Typing SVG"
+    />
+  </p>  
   <br><br>
   
   <a href="https://taxi-a-tout-heure.fr">Site sur lequel je bosse actuellement. ( ce n'est pas fini :) </a><br>
@@ -110,7 +115,7 @@
   &nbsp;&nbsp;&nbsp;
   <br><br><br>
   
-  <h2>🔐 Pentest & Security Tools</h2>
+  <h2>🔐 Pentest & Security Tools <span>( info. en cliquant sur icones )</span></h2>
   <br><br>
   <p>
     <a href="https://www.kali.org/tools/hydra/">
