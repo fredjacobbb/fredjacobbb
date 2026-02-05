@@ -169,14 +169,14 @@
   </p>
   <br><br>
   <h2>
-    ⌨️ Editeur de code
+    ⌨️ Editeurs de code
   </h2>
   <br><br>
   <p>
     <a href="https://go-skill-icons.vercel.app/">
       <img width="200" height="200"
         src="https://go-skill-icons.vercel.app/api/icons?i=vscode,vim,neovim"
-      />
+      /> + nano (lol)
     </a>
   </p>
   &nbsp;&nbsp;&nbsp;
