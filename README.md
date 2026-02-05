@@ -6,7 +6,7 @@
  <h1>Passionné de cyber, autodidacte et super-imposteur mais je le vis mieux !</h1>
   <br><br>
   
-  <a href="https://taxi-a-tout-heure.fr">Site sur lequel je bosse actuellement. ( ce n'est pas fini :) STACK : TRAEFIK , CROWDSEC ( BAN si comportement suspect ex : SSH-BRUTE-FORCE || SQLI || XSS || .env || .git || + partage en communauté des IP flagués comme malveillantes ) , REACT, EXPRESS, MONGOOSE </a>
+  <a href="https://taxi-a-tout-heure.fr">Site sur lequel je bosse actuellement. ( ce n'est pas fini :) STACK : TRAEFIK , CROWDSEC ( BAN si comportement suspect ex : SSH-BRUTE-FORCE || SQLI || XSS || .env || .git || + partage en communauté des IP flagués comme malveillantes + protection contre exploitation de CVE fingerprinté dans le hub ) , REACT, EXPRESS, MONGOOSE </a>
     
   <br><br>
   
