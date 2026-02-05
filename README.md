@@ -8,7 +8,7 @@
   
   <a href="https://taxi-a-tout-heure.fr">Site sur lequel je bosse actuellement. ( ce n'est pas fini :) </a><br>
 
-  <p>STACK :  TRAEFIK , CROWDSEC ( BAN si comportement suspect ex : SSH-BRUTE-FORCE || SQLI || XSS || .env || .git || + partage en communauté des IP flagués comme malveillantes + protection contre exploitation de CVE fingerprinté dans le hub ) , REACT, EXPRESS, MONGOOSE</p>
+  <p>Stack :  TRAEFIK , CROWDSEC ( BAN si comportement suspect ex : SSH-BRUTE-FORCE || SQLI || XSS || .env || .git || + partage en communauté des IP flagués comme malveillantes + protection contre exploitation de CVE fingerprinté dans le hub ) , REACT, EXPRESS, MONGOOSE</p>
     
   <br><br>
   
