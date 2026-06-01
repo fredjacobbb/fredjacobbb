@@ -14,8 +14,6 @@
   </a>
 </p>
 
-<p>Stack : TRAEFIK , CROWDSEC ( BAN si comportement suspect ex : SSH-BRUTE-FORCE || SQLI || XSS || .env || .git || + partage communautaire d'IP flagués comme malveillantes + protection contre exploitation de CVE fingerprinté dans le hub ) , REACT, EXPRESS, MONGOOSE, déployé sur un VPS et conteneurisé avec DOCKER</p>
-
 <br><br>
 
 <h2>⚒️ Technologies</h2>
