@@ -79,7 +79,7 @@
 
 <h2>⌨️ Editeurs de code</h2>
 <br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,vim,neovim"/> + nano (en cas d'urgence lol)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,vim,neovim"/>
 
 <br><br>
 
