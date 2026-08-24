@@ -64,7 +64,7 @@
 
 <br><br>
 
-<h2>🔐 Pentest & Security Tools <span>( info. en cliquant sur icones )</span></h2>
+<h2>🔐 Pentest & Security Tools</h2>
 <br>
 <a href="https://www.kali.org/tools/hydra/"><img src="https://img.shields.io/badge/Hydra-informational?style=for-the-badge&logo=kalilinux&logoColor=white&color=2d333b"/></a>
 <a href="https://www.kali.org/tools/burpsuite/"><img src="https://img.shields.io/badge/BurpSuite-informational?style=for-the-badge&logo=burpsuite&logoColor=white&color=FF6633"/></a>
